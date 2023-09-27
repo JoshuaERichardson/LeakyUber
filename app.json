@@ -3,7 +3,7 @@
     "name": "LeakyUber",
     "slug": "LeakyUber",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "landscape",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
@@ -18,10 +18,10 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "adaptiveIcon": {
+            "foregroundImage": "./assets/adaptive-icon.png",
+            "backgroundColor": "#ffffff"
+        }
     },
     "web": {
       "favicon": "./assets/favicon.png"
